@@ -1,0 +1,105 @@
+<RECIPES>
+  <RECIPE>
+    <WATER />
+    <EQUIPMENT />
+    <NAME>New World Old Ale (exported from brewgr.com)</NAME>
+    <VERSION>1</VERSION>
+    <TYPE>All Grain</TYPE>
+    <BREWER>YESBREWNEIN (http://brewgr.com/!/YESBREWNEIN)</BREWER>
+    <BATCH_SIZE>15.5</BATCH_SIZE>
+    <BOIL_SIZE>21.5</BOIL_SIZE>
+    <BOIL_TIME>120</BOIL_TIME>
+    <EFFICIENCY>55.000000000000007</EFFICIENCY>
+    <NOTES>This recipe was exported from http://brewgr.com.  
+
+Single hop American Barleywine made with Simcoe hops
+</NOTES>
+    <IBU_METHOD>Brewgr</IBU_METHOD>
+    <HOPS>
+      <HOP>
+        <NAME>Simcoe </NAME>
+        <VERSION>1</VERSION>
+        <ALPHA>13</ALPHA>
+        <AMOUNT>0.04245</AMOUNT>
+        <USE>Boil</USE>
+        <TIME>90</TIME>
+      </HOP>
+      <HOP>
+        <NAME>Simcoe </NAME>
+        <VERSION>1</VERSION>
+        <ALPHA>13</ALPHA>
+        <AMOUNT>0.028300000000000002</AMOUNT>
+        <USE>Boil</USE>
+        <TIME>10</TIME>
+      </HOP>
+      <HOP>
+        <NAME>Simcoe </NAME>
+        <VERSION>1</VERSION>
+        <ALPHA>13</ALPHA>
+        <AMOUNT>0.04245</AMOUNT>
+        <USE>Flame Out</USE>
+        <TIME>0</TIME>
+      </HOP>
+      <HOP>
+        <NAME>Simcoe </NAME>
+        <VERSION>1</VERSION>
+        <ALPHA>13</ALPHA>
+        <AMOUNT>0.028300000000000002</AMOUNT>
+        <USE>Dry Hop</USE>
+        <TIME>7200</TIME>
+      </HOP>
+    </HOPS>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Pale Ale - DE</NAME>
+        <VERSION>1</VERSION>
+        <AMOUNT>8.56</AMOUNT>
+        <TYPE>Grain</TYPE>
+        <YIELD>84.390011684770855</YIELD>
+        <COLOR>3</COLOR>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>CaraAmber - DE</NAME>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.4</AMOUNT>
+        <TYPE>Grain</TYPE>
+        <YIELD>73.570779417492531</YIELD>
+        <COLOR>27</COLOR>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>CaraMunich II - DE</NAME>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.35</AMOUNT>
+        <TYPE>Grain</TYPE>
+        <YIELD>73.570779417492531</YIELD>
+        <COLOR>46</COLOR>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <YEASTS>
+      <YEAST>
+        <NAME>White Labs California Ale WLP001</NAME>
+        <VERSION>1</VERSION>
+        <TYPE>Ale</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>82</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS />
+    <STYLE>
+      <NAME>American Barleywine</NAME>
+      <VERSION>1</VERSION>
+      <CATEGORY_NUMBER>19</CATEGORY_NUMBER>
+      <STYLE_LETTER>C</STYLE_LETTER>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.08</OG_MIN>
+      <OG_MAX>1.12</OG_MAX>
+      <FG_MIN>1.016</FG_MIN>
+      <FG_MAX>1.03</FG_MAX>
+      <IBU_MIN>50</IBU_MIN>
+      <IBU_MAX>120</IBU_MAX>
+      <COLOR_MIN>10</COLOR_MIN>
+      <COLOR_MAX>19</COLOR_MAX>
+    </STYLE>
+  </RECIPE>
+</RECIPES>

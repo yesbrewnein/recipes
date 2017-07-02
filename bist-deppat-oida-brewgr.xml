@@ -1,0 +1,119 @@
+<RECIPES>
+  <RECIPE>
+    <WATER />
+    <EQUIPMENT />
+    <NAME>Bist deppat Oida (exported from brewgr.com)</NAME>
+    <VERSION>1</VERSION>
+    <TYPE>All Grain</TYPE>
+    <BREWER>YESBREWNEIN (http://brewgr.com/!/YESBREWNEIN)</BREWER>
+    <BATCH_SIZE>12</BATCH_SIZE>
+    <BOIL_SIZE>15</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>70</EFFICIENCY>
+    <NOTES>This recipe was exported from http://brewgr.com.  
+</NOTES>
+    <IBU_METHOD>Brewgr</IBU_METHOD>
+    <HOPS>
+      <HOP>
+        <NAME>Willamette </NAME>
+        <VERSION>1</VERSION>
+        <ALPHA>5</ALPHA>
+        <AMOUNT>0.01</AMOUNT>
+        <USE>Boil</USE>
+        <TIME>60</TIME>
+      </HOP>
+      <HOP>
+        <NAME>Cascade </NAME>
+        <VERSION>1</VERSION>
+        <ALPHA>5.8</ALPHA>
+        <AMOUNT>0.02</AMOUNT>
+        <USE>Boil</USE>
+        <TIME>10</TIME>
+      </HOP>
+      <HOP>
+        <NAME>Hallertauer Mittelfrüh</NAME>
+        <VERSION>1</VERSION>
+        <ALPHA>4.3</ALPHA>
+        <AMOUNT>0.02</AMOUNT>
+        <USE>Boil</USE>
+        <TIME>10</TIME>
+      </HOP>
+      <HOP>
+        <NAME>Cascade </NAME>
+        <VERSION>1</VERSION>
+        <ALPHA>5.8</ALPHA>
+        <AMOUNT>0.03</AMOUNT>
+        <USE>Dry Hop</USE>
+        <TIME>7200</TIME>
+      </HOP>
+      <HOP>
+        <NAME>Hallertauer Mittelfrüh</NAME>
+        <VERSION>1</VERSION>
+        <ALPHA>4.3</ALPHA>
+        <AMOUNT>0.03</AMOUNT>
+        <USE>Dry Hop</USE>
+        <TIME>7200</TIME>
+      </HOP>
+    </HOPS>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Vienna - DE</NAME>
+        <VERSION>1</VERSION>
+        <AMOUNT>2.1</AMOUNT>
+        <TYPE>Grain</TYPE>
+        <YIELD>80.062318777859517</YIELD>
+        <COLOR>4</COLOR>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Munich Dark - DE</NAME>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.4</AMOUNT>
+        <TYPE>Grain</TYPE>
+        <YIELD>80.062318777859517</YIELD>
+        <COLOR>10</COLOR>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Melanoidin Malt - US</NAME>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.2</AMOUNT>
+        <TYPE>Grain</TYPE>
+        <YIELD>80.062318777859517</YIELD>
+        <COLOR>27</COLOR>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>CaraMunich II - DE</NAME>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.1</AMOUNT>
+        <TYPE>Grain</TYPE>
+        <YIELD>73.570779417492531</YIELD>
+        <COLOR>46</COLOR>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <YEASTS>
+      <YEAST>
+        <NAME>Fermentis Saflager W-34/70</NAME>
+        <VERSION>1</VERSION>
+        <TYPE>Lager</TYPE>
+        <FORM>Dry</FORM>
+        <ATTENUATION>77</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS />
+    <STYLE>
+      <NAME>Vienna Lager</NAME>
+      <VERSION>1</VERSION>
+      <CATEGORY_NUMBER>3</CATEGORY_NUMBER>
+      <STYLE_LETTER>A</STYLE_LETTER>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <TYPE>Lager</TYPE>
+      <OG_MIN>1.046</OG_MIN>
+      <OG_MAX>1.052</OG_MAX>
+      <FG_MIN>1.01</FG_MIN>
+      <FG_MAX>1.014</FG_MAX>
+      <IBU_MIN>18</IBU_MIN>
+      <IBU_MAX>30</IBU_MAX>
+      <COLOR_MIN>10</COLOR_MIN>
+      <COLOR_MAX>16</COLOR_MAX>
+    </STYLE>
+  </RECIPE>
+</RECIPES>

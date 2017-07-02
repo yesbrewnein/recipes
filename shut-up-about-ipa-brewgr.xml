@@ -1,0 +1,105 @@
+<RECIPES>
+  <RECIPE>
+    <WATER />
+    <EQUIPMENT />
+    <NAME>Shut Up About IPA (exported from brewgr.com)</NAME>
+    <VERSION>1</VERSION>
+    <TYPE>All Grain</TYPE>
+    <BREWER>YESBREWNEIN (http://brewgr.com/!/YESBREWNEIN)</BREWER>
+    <BATCH_SIZE>12</BATCH_SIZE>
+    <BOIL_SIZE>15</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>70</EFFICIENCY>
+    <NOTES>This recipe was exported from http://brewgr.com.  
+
+Export India Porter
+</NOTES>
+    <IBU_METHOD>Brewgr</IBU_METHOD>
+    <HOPS>
+      <HOP>
+        <NAME>East Kent Goldings</NAME>
+        <VERSION>1</VERSION>
+        <ALPHA>5.1</ALPHA>
+        <AMOUNT>0.04</AMOUNT>
+        <USE>First Wort</USE>
+        <TIME>60</TIME>
+      </HOP>
+      <HOP>
+        <NAME>East Kent Goldings</NAME>
+        <VERSION>1</VERSION>
+        <ALPHA>5.1</ALPHA>
+        <AMOUNT>0.05</AMOUNT>
+        <USE>Boil</USE>
+        <TIME>10</TIME>
+      </HOP>
+      <HOP>
+        <NAME>East Kent Goldings</NAME>
+        <VERSION>1</VERSION>
+        <ALPHA>5.1</ALPHA>
+        <AMOUNT>0.06</AMOUNT>
+        <USE>Dry Hop</USE>
+        <TIME>5760</TIME>
+      </HOP>
+    </HOPS>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Maris Otter Pale - UK</NAME>
+        <VERSION>1</VERSION>
+        <AMOUNT>2.6</AMOUNT>
+        <TYPE>Grain</TYPE>
+        <YIELD>82.226165231315179</YIELD>
+        <COLOR>3</COLOR>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Brown Malt - UK</NAME>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.7</AMOUNT>
+        <TYPE>Grain</TYPE>
+        <YIELD>71.406932964036869</YIELD>
+        <COLOR>50</COLOR>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Amber - UK</NAME>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.2</AMOUNT>
+        <TYPE>Grain</TYPE>
+        <YIELD>69.243086510581207</YIELD>
+        <COLOR>30</COLOR>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Black Malt - UK</NAME>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.15</AMOUNT>
+        <TYPE>Grain</TYPE>
+        <YIELD>60.58770069675856</YIELD>
+        <COLOR>530</COLOR>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <YEASTS>
+      <YEAST>
+        <NAME>White Labs English Ale WLP002</NAME>
+        <VERSION>1</VERSION>
+        <TYPE>Ale</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>75</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS />
+    <STYLE>
+      <NAME>Robust Porter</NAME>
+      <VERSION>1</VERSION>
+      <CATEGORY_NUMBER>12</CATEGORY_NUMBER>
+      <STYLE_LETTER>B</STYLE_LETTER>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.048</OG_MIN>
+      <OG_MAX>1.065</OG_MAX>
+      <FG_MIN>1.012</FG_MIN>
+      <FG_MAX>1.016</FG_MAX>
+      <IBU_MIN>25</IBU_MIN>
+      <IBU_MAX>50</IBU_MAX>
+      <COLOR_MIN>22</COLOR_MIN>
+      <COLOR_MAX>35</COLOR_MAX>
+    </STYLE>
+  </RECIPE>
+</RECIPES>

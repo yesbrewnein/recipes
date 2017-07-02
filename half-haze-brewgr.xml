@@ -1,0 +1,121 @@
+<RECIPES>
+  <RECIPE>
+    <WATER />
+    <EQUIPMENT />
+    <NAME>HALF HAZE (exported from brewgr.com)</NAME>
+    <VERSION>1</VERSION>
+    <TYPE>All Grain</TYPE>
+    <BREWER>YESBREWNEIN (http://brewgr.com/!/YESBREWNEIN)</BREWER>
+    <BATCH_SIZE>15</BATCH_SIZE>
+    <BOIL_SIZE>18</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>68</EFFICIENCY>
+    <NOTES>This recipe was exported from http://brewgr.com.  
+
+Session NE IPA with Hallertauer Blanc hops
+</NOTES>
+    <IBU_METHOD>Brewgr</IBU_METHOD>
+    <HOPS>
+      <HOP>
+        <NAME>Hallertau Blanc</NAME>
+        <VERSION>1</VERSION>
+        <ALPHA>10.5</ALPHA>
+        <AMOUNT>0.005</AMOUNT>
+        <USE>Boil</USE>
+        <TIME>60</TIME>
+      </HOP>
+      <HOP>
+        <NAME>Hallertau Blanc</NAME>
+        <VERSION>1</VERSION>
+        <ALPHA>10.5</ALPHA>
+        <AMOUNT>0.03</AMOUNT>
+        <USE>Boil</USE>
+        <TIME>10</TIME>
+      </HOP>
+      <HOP>
+        <NAME>Hallertau Blanc</NAME>
+        <VERSION>1</VERSION>
+        <ALPHA>10.5</ALPHA>
+        <AMOUNT>0.065</AMOUNT>
+        <USE>Dry Hop</USE>
+        <TIME>0</TIME>
+      </HOP>
+    </HOPS>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Golden Promise - UK</NAME>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.5</AMOUNT>
+        <TYPE>Grain</TYPE>
+        <YIELD>80.062318777859517</YIELD>
+        <COLOR>3</COLOR>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Maris Otter Pale - UK</NAME>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.5</AMOUNT>
+        <TYPE>Grain</TYPE>
+        <YIELD>82.226165231315179</YIELD>
+        <COLOR>3</COLOR>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>CaraHell - DE</NAME>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.3</AMOUNT>
+        <TYPE>Grain</TYPE>
+        <YIELD>71.406932964036869</YIELD>
+        <COLOR>10</COLOR>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Wheat Malt - DE</NAME>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.4</AMOUNT>
+        <TYPE>Grain</TYPE>
+        <YIELD>80.062318777859517</YIELD>
+        <COLOR>2</COLOR>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Dark Munich - DE</NAME>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.3</AMOUNT>
+        <TYPE>Grain</TYPE>
+        <YIELD>77.898472324403869</YIELD>
+        <COLOR>10</COLOR>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Flaked Oats - US</NAME>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.2</AMOUNT>
+        <TYPE>Grain</TYPE>
+        <YIELD>80.062318777859517</YIELD>
+        <COLOR>1</COLOR>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <YEASTS>
+      <YEAST>
+        <NAME>White Labs Burton Ale WLP023</NAME>
+        <VERSION>1</VERSION>
+        <TYPE>Ale</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>60</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS />
+    <STYLE>
+      <NAME>Standard/Ordinary Bitter</NAME>
+      <VERSION>1</VERSION>
+      <CATEGORY_NUMBER>8</CATEGORY_NUMBER>
+      <STYLE_LETTER>A</STYLE_LETTER>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.032</OG_MIN>
+      <OG_MAX>1.04</OG_MAX>
+      <FG_MIN>1.007</FG_MIN>
+      <FG_MAX>1.011</FG_MAX>
+      <IBU_MIN>25</IBU_MIN>
+      <IBU_MAX>35</IBU_MAX>
+      <COLOR_MIN>4</COLOR_MIN>
+      <COLOR_MAX>14</COLOR_MAX>
+    </STYLE>
+  </RECIPE>
+</RECIPES>

@@ -1,0 +1,121 @@
+<RECIPES>
+  <RECIPE>
+    <WATER />
+    <EQUIPMENT />
+    <NAME>Missing Tiles (exported from brewgr.com)</NAME>
+    <VERSION>1</VERSION>
+    <TYPE>All Grain</TYPE>
+    <BREWER>YESBREWNEIN (http://brewgr.com/!/YESBREWNEIN)</BREWER>
+    <BATCH_SIZE>14</BATCH_SIZE>
+    <BOIL_SIZE>17</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>68</EFFICIENCY>
+    <NOTES>This recipe was exported from http://brewgr.com.  
+
+Mosaic IPA
+</NOTES>
+    <IBU_METHOD>Brewgr</IBU_METHOD>
+    <HOPS>
+      <HOP>
+        <NAME>Mosaic</NAME>
+        <VERSION>1</VERSION>
+        <ALPHA>13.3</ALPHA>
+        <AMOUNT>0.015</AMOUNT>
+        <USE>Boil</USE>
+        <TIME>60</TIME>
+      </HOP>
+      <HOP>
+        <NAME>Mosaic</NAME>
+        <VERSION>1</VERSION>
+        <ALPHA>13.3</ALPHA>
+        <AMOUNT>0.025</AMOUNT>
+        <USE>Boil</USE>
+        <TIME>10</TIME>
+      </HOP>
+      <HOP>
+        <NAME>Mosaic</NAME>
+        <VERSION>1</VERSION>
+        <ALPHA>13.3</ALPHA>
+        <AMOUNT>0.03</AMOUNT>
+        <USE>Dry Hop</USE>
+        <TIME>5760</TIME>
+      </HOP>
+      <HOP>
+        <NAME>Mosaic</NAME>
+        <VERSION>1</VERSION>
+        <ALPHA>13.3</ALPHA>
+        <AMOUNT>0.03</AMOUNT>
+        <USE>Dry Hop</USE>
+        <TIME>5760</TIME>
+      </HOP>
+    </HOPS>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Maris Otter Pale - UK</NAME>
+        <VERSION>1</VERSION>
+        <AMOUNT>2</AMOUNT>
+        <TYPE>Grain</TYPE>
+        <YIELD>82.226165231315179</YIELD>
+        <COLOR>3</COLOR>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Golden Promise - UK</NAME>
+        <VERSION>1</VERSION>
+        <AMOUNT>1.7</AMOUNT>
+        <TYPE>Grain</TYPE>
+        <YIELD>80.062318777859517</YIELD>
+        <COLOR>3</COLOR>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>CaraHell - DE</NAME>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.2</AMOUNT>
+        <TYPE>Grain</TYPE>
+        <YIELD>71.406932964036869</YIELD>
+        <COLOR>10</COLOR>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Wheat Malt - DE</NAME>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.2</AMOUNT>
+        <TYPE>Grain</TYPE>
+        <YIELD>80.062318777859517</YIELD>
+        <COLOR>2</COLOR>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Flaked Oats - US</NAME>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.2</AMOUNT>
+        <TYPE>Grain</TYPE>
+        <YIELD>80.062318777859517</YIELD>
+        <COLOR>1</COLOR>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <YEASTS>
+      <YEAST>
+        <NAME>Fermentis Safale US-05</NAME>
+        <VERSION>1</VERSION>
+        <TYPE>Ale</TYPE>
+        <FORM>Dry</FORM>
+        <ATTENUATION>80</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS />
+    <STYLE>
+      <NAME>American IPA</NAME>
+      <VERSION>1</VERSION>
+      <CATEGORY_NUMBER>14</CATEGORY_NUMBER>
+      <STYLE_LETTER>B</STYLE_LETTER>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.056</OG_MIN>
+      <OG_MAX>1.075</OG_MAX>
+      <FG_MIN>1.01</FG_MIN>
+      <FG_MAX>1.018</FG_MAX>
+      <IBU_MIN>40</IBU_MIN>
+      <IBU_MAX>70</IBU_MAX>
+      <COLOR_MIN>6</COLOR_MIN>
+      <COLOR_MAX>15</COLOR_MAX>
+    </STYLE>
+  </RECIPE>
+</RECIPES>

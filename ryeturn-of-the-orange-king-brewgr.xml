@@ -1,0 +1,97 @@
+<RECIPES>
+  <RECIPE>
+    <WATER />
+    <EQUIPMENT />
+    <NAME>Ryeturn of the Orange King (exported from brewgr.com)</NAME>
+    <VERSION>1</VERSION>
+    <TYPE>All Grain</TYPE>
+    <BREWER>YESBREWNEIN (http://brewgr.com/!/YESBREWNEIN)</BREWER>
+    <BATCH_SIZE>12</BATCH_SIZE>
+    <BOIL_SIZE>16</BOIL_SIZE>
+    <BOIL_TIME>90</BOIL_TIME>
+    <EFFICIENCY>68</EFFICIENCY>
+    <NOTES>This recipe was exported from http://brewgr.com.  
+
+Pumpkin rye saison.
+</NOTES>
+    <IBU_METHOD>Brewgr</IBU_METHOD>
+    <HOPS>
+      <HOP>
+        <NAME>Columbus </NAME>
+        <VERSION>1</VERSION>
+        <ALPHA>12.9</ALPHA>
+        <AMOUNT>0.018</AMOUNT>
+        <USE>Boil</USE>
+        <TIME>20</TIME>
+      </HOP>
+    </HOPS>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Pilsner - DE</NAME>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.9</AMOUNT>
+        <TYPE>Grain</TYPE>
+        <YIELD>82.226165231315179</YIELD>
+        <COLOR>1</COLOR>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Golden Promise - UK</NAME>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.9</AMOUNT>
+        <TYPE>Grain</TYPE>
+        <YIELD>80.062318777859517</YIELD>
+        <COLOR>3</COLOR>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Rye - DE</NAME>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.8</AMOUNT>
+        <TYPE>Grain</TYPE>
+        <YIELD>82.226165231315179</YIELD>
+        <COLOR>3</COLOR>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Dark Munich - DE</NAME>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.3</AMOUNT>
+        <TYPE>Grain</TYPE>
+        <YIELD>77.898472324403869</YIELD>
+        <COLOR>10</COLOR>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Butternut squash</NAME>
+        <VERSION>1</VERSION>
+        <AMOUNT>1.2</AMOUNT>
+        <TYPE>Grain</TYPE>
+        <YIELD>10.819232267278315</YIELD>
+        <COLOR>6</COLOR>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <YEASTS>
+      <YEAST>
+        <NAME>Mangrove Jack's M29 French Saison</NAME>
+        <VERSION>1</VERSION>
+        <TYPE>Ale</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>90</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS />
+    <STYLE>
+      <NAME>Saison</NAME>
+      <VERSION>1</VERSION>
+      <CATEGORY_NUMBER>16</CATEGORY_NUMBER>
+      <STYLE_LETTER>C</STYLE_LETTER>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.048</OG_MIN>
+      <OG_MAX>1.065</OG_MAX>
+      <FG_MIN>1.002</FG_MIN>
+      <FG_MAX>1.012</FG_MAX>
+      <IBU_MIN>20</IBU_MIN>
+      <IBU_MAX>35</IBU_MAX>
+      <COLOR_MIN>5</COLOR_MIN>
+      <COLOR_MAX>14</COLOR_MAX>
+    </STYLE>
+  </RECIPE>
+</RECIPES>
